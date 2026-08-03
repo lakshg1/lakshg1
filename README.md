@@ -1,10 +1,14 @@
+<p align="center">
+  <img src="./github banner.png" alt="Laksh Gupta Banner" width="100%">
+</p>
+
 <div align="center">
 
 # Hi 👋 I'm Laksh Gupta
 
 ### Backend Engineer • AI Systems • Distributed Systems • GenAI
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Python+%7C+Golang+Backend+Engineer;Building+AI+Agents+%26+LLM+Applications;Distributed+Systems+%7C+FastAPI+%7C+AWS;RAG+%7C+LangGraph+%7C+Vector+Search;Always+Building+Something+Interesting" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems;AI+Agents+%7C+LLMs+%7C+RAG;Python+%7C+Golang+%7C+FastAPI;Distributed+Systems+on+AWS" />
 
 <br>
 
@@ -26,56 +30,61 @@
 
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lakshg1&label=Profile%20Views&color=58A6FF&style=flat-square"/>
+</p>
+
 ---
 
 # 👨‍💻 About Me
 
 ```python
-class LakshGupta:
+class LakshGupta(BackendEngineer):
 
-    role = "Backend Engineer"
+    def __init__(self):
+        self.location = "Bengaluru 🇮🇳"
+        self.experience = "4+ Years"
 
-    experience = "4+ Years"
+        self.languages = [
+            "Python",
+            "Golang",
+            "TypeScript"
+        ]
 
-    location = "Bengaluru, India"
+        self.specialization = [
+            "Distributed Systems",
+            "AI Agents",
+            "LLMs",
+            "RAG",
+            "FastAPI"
+        ]
 
-    focus = [
-        "Distributed Systems",
-        "AI Agents",
-        "LLMs",
-        "RAG",
-        "Backend Engineering",
-        "Cloud Infrastructure"
-    ]
-
-    languages = [
-        "Python",
-        "Golang",
-        "TypeScript",
-        "SQL"
-    ]
-
-    currently_building = [
-        "Brand Intelligence Platform",
-        "Multi-Agent AI Systems",
-        "Async FastAPI Services"
-    ]
-
-    motto = "Build scalable systems that engineers enjoy maintaining."
+    def currently_building(self):
+        return [
+            "Brand Intelligence Platform",
+            "Agentic AI Systems",
+            "Cloud-native Backend Services"
+        ]
 ```
-
 ---
 
-# 🚀 Current Focus
+## 🚀 Current Focus
 
-- 🤖 AI Agents & Multi-Agent Systems
-- 🧠 LLM Applications
-- 📚 Retrieval Augmented Generation (RAG)
-- ⚡ FastAPI Backend Development
-- ☁️ AWS Cloud Infrastructure
-- 🐳 Docker & Kubernetes
-- 🔍 System Design
-- 📈 Distributed Systems
+✔ AI Agents
+
+✔ LLM Applications
+
+✔ Distributed Systems
+
+✔ FastAPI
+
+✔ AWS
+
+✔ Kubernetes
+
+✔ System Design
+
+✔ Production AI Infrastructure
 
 ---
 
@@ -199,6 +208,15 @@ class LakshGupta:
 
 ---
 
+## 🌟 Featured Repositories
+
+- 🤖 **Brand Intelligence Platform** – AI-powered platform for Brand DNA generation.
+- 🎙 **YTPodcaster** – Convert YouTube videos into AI-generated podcasts.
+- 🌐 **Portfolio** – Personal portfolio built with Next.js 15.
+- 🚗 **ParkWise** – Smart parking management platform.
+
+---
+
 # 🏆 Achievements
 
 🏅 MLH Fellow
@@ -219,17 +237,29 @@ class LakshGupta:
 
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lakshg1&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshg1&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lakshg1&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
 ---
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshg1&theme=github-dark&hide_border=true" />
+</p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lakshg1&theme=github_dark"/>
+## 🐍 Contribution Snake
 
-</div>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/lakshg1/lakshg1/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/lakshg1/lakshg1/output/github-contribution-grid-snake.svg">
+  <img
+    src="https://raw.githubusercontent.com/lakshg1/lakshg1/output/github-contribution-grid-snake.svg"
+    alt="Contribution Snake">
+</picture>
+</p>
 
 ---
 
@@ -247,8 +277,12 @@ class LakshGupta:
 
 ---
 
+---
+
 <div align="center">
 
-### ⭐ If you like my work, consider starring one of my repositories!
+### 💡 Build systems that scale. Build products that matter.
+
+Thanks for visiting my profile!
 
 </div>
