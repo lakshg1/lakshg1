@@ -1,53 +1,254 @@
+<div align="center">
+
+# Hi 👋 I'm Laksh Gupta
+
+### Backend Engineer • AI Systems • Distributed Systems • GenAI
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Python+%7C+Golang+Backend+Engineer;Building+AI+Agents+%26+LLM+Applications;Distributed+Systems+%7C+FastAPI+%7C+AWS;RAG+%7C+LangGraph+%7C+Vector+Search;Always+Building+Something+Interesting" />
+
+<br>
+
+<a href="https://linkedin.com/in/lakshg1">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:lakshgupta253@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://lakshgupta.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://github.com/lakshg1">
+<img src="https://img.shields.io/github/followers/lakshg1?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+```python
+class LakshGupta:
+
+    role = "Backend Engineer"
+
+    experience = "4+ Years"
+
+    location = "Bengaluru, India"
+
+    focus = [
+        "Distributed Systems",
+        "AI Agents",
+        "LLMs",
+        "RAG",
+        "Backend Engineering",
+        "Cloud Infrastructure"
+    ]
+
+    languages = [
+        "Python",
+        "Golang",
+        "TypeScript",
+        "SQL"
+    ]
+
+    currently_building = [
+        "Brand Intelligence Platform",
+        "Multi-Agent AI Systems",
+        "Async FastAPI Services"
+    ]
+
+    motto = "Build scalable systems that engineers enjoy maintaining."
+```
+
+---
+
+# 🚀 Current Focus
+
+- 🤖 AI Agents & Multi-Agent Systems
+- 🧠 LLM Applications
+- 📚 Retrieval Augmented Generation (RAG)
+- ⚡ FastAPI Backend Development
+- ☁️ AWS Cloud Infrastructure
+- 🐳 Docker & Kubernetes
+- 🔍 System Design
+- 📈 Distributed Systems
+
+---
+
+# 💻 Tech Stack
+
+## 🤖 AI & GenAI
 
 <p align="center">
-  <img width="460" height="300" src="https://c4.wallpaperflare.com/wallpaper/170/85/290/anarchy-computer-hack-hacker-wallpaper-preview.jpg">
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Claude-7B61FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LangChain-0FA958?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LangGraph-4CAF50?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MCP-black?style=for-the-badge"/>
+
 </p>
 
+---
 
+## ⚙️ Backend
 
-<h1 align="center">Hi 👋, I'm Laksh Gupta</h1>
-<h3 align="center">A CSE Enthusiast | Software Engineer | Developer | Competitive Programmer | Contributor </h3>
+<p align="center">
 
-<p align="right"> <a href="https://twitter.com/pr3d44t0r" target="blank"><img src="https://img.shields.io/twitter/follow/pr3d44t0r?logo=twitter&style=for-the-badge" alt="pr3d44t0r" /></a> </p>
+<img src="https://skillicons.dev/icons?i=python,go,fastapi,django,nodejs,typescript,javascript"/>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1714010/screenshots/10822383/media/ea98dfbdc8c2a056427061871bb42edc.gif" >
-
-[![Discover my linktree too!](http://www.codingvilla.in/wp-content/uploads/2019/11/baner.jpg)](https://linktr.ee/guptalaksh)
-
-- 🌱 I’m currently learning **MERN - Express.js, React.js, Node.js**
-
-- 💬 Ask me about **C++, Python, Django, Golang, React**
-
-- 📫 How to reach me **lakshgupta253@gmail.com**
-
-- 📄 Know about my experiences [Resume/CV](https://drive.google.com/file/d/1GTyMzdVpcR4Tvvrvezo77jdEYXlbX_zx/view?usp=sharing)
-
-- ⚡ Fun fact **I Like to crack jokes..**
-
-
-                                                 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/cyborglaksh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="cyborglaksh" height="30" width="40" /></a>
-<a href="https://twitter.com/pr3d44t0r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pr3d44t0r" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/laksh-gupta-138b90143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laksh-gupta-138b90143" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/pr3d4t0r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="pr3d4t0r" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/l_a_k_s_h_g" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="l_a_k_s_h_g" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/laksh_gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="laksh_gupta" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pr3d4t0r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pr3d4t0r" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@laksh28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@laksh28" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
+## 🗄️ Databases
 
+<p align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyborglaksh&show_icons=true&locale=en&layout=compact" alt="cyborglaksh" /></p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyborglaksh&show_icons=true&locale=en" alt="cyborglaksh" /></p>
+</p>
 
-<!---
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyborglaksh&" alt="cyborglaksh" /></p>
---> 
+---
 
+## ☁️ Cloud & DevOps
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,githubactions,jenkins"/>
+
+</p>
+
+---
+
+## 🛠️ Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,postman"/>
+
+<img src="https://img.shields.io/badge/Playwright-45BA63?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Firecrawl-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Apify-EA4C89?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 💼 Experience
+
+## Backend Engineer • Kyko AI
+
+- AI-powered Brand Intelligence Platform
+- FastAPI & LangGraph
+- Vector Search
+- PostgreSQL
+- Async Processing
+- AI Agents
+- OpenAI & Claude
+- Distributed Ingestion Pipeline
+
+---
+
+## Developer Consultant • Thoughtworks
+
+- Enterprise Backend Systems
+- Golang Microservices
+- AI-powered QA
+- TDD
+- System Design
+
+---
+
+## Senior Software Developer • Microland
+
+- Distributed Systems
+- WebSockets
+- Golang APIs
+- RBAC
+- Kubernetes
+- Jenkins
+- Enterprise Automation
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🤖 Brand Intelligence Platform | AI-powered platform generating Brand DNA using LLMs |
+| 🎙️ YTPodcaster | Converts YouTube videos into AI-generated podcasts |
+| 🚗 ParkWise | Smart Parking Management System |
+| 🌐 Portfolio | Interactive portfolio built with Next.js 15 |
+
+---
+
+# 🏆 Achievements
+
+🏅 MLH Fellow
+
+🏅 Microland MRC Award ×2
+
+🏅 HackNITR Finalist
+
+⭐ HackerRank 5★
+
+⭐ CodeChef 4★
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lakshg1&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshg1&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lakshg1&theme=github_dark"/>
+
+</div>
+
+---
+
+# 📫 Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel)](https://lakshgupta.vercel.app)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Laksh_Gupta-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/lakshg1)
+
+[![Email](https://img.shields.io/badge/Gmail-lakshgupta253@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:lakshgupta253@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, consider starring one of my repositories!
+
+</div>
