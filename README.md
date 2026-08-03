@@ -210,10 +210,8 @@ class LakshGupta(BackendEngineer):
 
 ## 🌟 Featured Repositories
 
-- 🤖 **Brand Intelligence Platform** – AI-powered platform for Brand DNA generation.
-- 🎙 **YTPodcaster** – Convert YouTube videos into AI-generated podcasts.
-- 🌐 **Portfolio** – Personal portfolio built with Next.js 15.
-- 🚗 **ParkWise** – Smart parking management platform.
+- 🌐 **Portfolio** – [Personal portfolio built with Next.js 15.](https://github.com/lakshg1/laksh-portfolio)
+- 🚗 **ParkWise** – [Smart parking management platform.](https://github.com/lakshg1/parkwise)
 
 ---
 
