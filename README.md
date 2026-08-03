@@ -217,7 +217,7 @@ class LakshGupta:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lakshg1&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lakshg1&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshg1&layout=compact&theme=github_dark&hide_border=true"/>
 
