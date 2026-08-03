@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="./github banner.png" alt="Laksh Gupta Banner" width="100%">
-</p>
+</p> -->
 
 <div align="center">
 
