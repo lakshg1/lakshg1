@@ -214,7 +214,6 @@ class LakshGupta(BackendEngineer):
 - 🌐 **Portfolio** – [Personal portfolio built with Next.js 15.](https://github.com/lakshg1/laksh-portfolio)
 - 🚗 **ParkWise** – [Smart parking management platform.](https://github.com/lakshg1/parkwise)
 - 🔐 **VyapaariCRM** – [Security-hardened Django CRM with tests, bandit & pip-audit CI.](https://github.com/lakshg1/VyapaariCRM)
-- 🔗 **url-shortner** – [URL shortener microservice in Go — clean architecture, Docker.](https://github.com/lakshg1/url-shortner)
 - 💬 **chatapp** – [Real-time chat with Django Channels, WebSockets & Redis.](https://github.com/lakshg1/chatapp)
 
 ---
